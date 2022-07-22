@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Apartir dos estudos na plataforma Alura, criei o Dashboard Alura Pets
+A partir dos estudos na plataforma Alura, criei o Dashboard Alura Pets, que funciona tanto no desktop quanto no mobile
 
 
 ## 🤷‍♂️ Como rodar o projeto?
